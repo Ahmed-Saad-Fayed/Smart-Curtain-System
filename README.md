@@ -18,7 +18,7 @@ The system is built using basic logic gates to simulate an automatic curtain tha
 ### ⚙️ Logic Processing
 
 - Implemented using **AND, OR, NOR, and NOT gates** from **7400 series TTL ICs**.  
-- Final output connected to an **LED** to indicate system status or errors.
+- Final output connected to an **LED** to indicate system errors.
 
 ---
 
