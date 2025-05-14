@@ -21,7 +21,7 @@ AND, OR, NOR, and NOT gates (7400 series ICs).
 A final output connected to an LED (as an indicator for Error).
 
 ## 🖥️ Simulation & PCB
-The schematic circuit was designed and simulated using Proteus.
+The schematic circuit was simulated using Proteus.
 
 PCB layout was created for real-world implementation, including labels for all inputs/outputs.
 
