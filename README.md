@@ -1,4 +1,4 @@
-![2D PCB](https://github.com/user-attachments/assets/89cd8410-6ad1-432b-a8b0-f17f32457caf)# 🧠 Smart Curtain System
+# 🧠 Smart Curtain System
 
 This project is a **Smart Curtain System** designed using **logic gates (AND, OR, NOR, NOT)**, switches, resistors, and an **LDR sensor**. It automates curtain control based on **light intensity** and **user inputs**.
 
@@ -38,7 +38,7 @@ The system is built using basic logic gates to simulate an automatic curtain tha
 
 ## 🧾 PCB Layout
 
-*![Uploading 2D PCB.png…]()*
+*![2D PCB](https://github.com/user-attachments/assets/a6a3ee27-61b2-4eb1-858f-5c07a09d5d3a)*
 
 ---
 
