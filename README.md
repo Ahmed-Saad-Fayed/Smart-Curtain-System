@@ -41,7 +41,7 @@ Manual override using toggle switches.
 Educational circuit that demonstrates the power of digital logic in automation.
 
 ## 📎 Tools Used
-Proteus for schematic and simulation.
+Proteus for simulation.
 
-Altium for PCB layout.
+Altium for schematic and PCB layout.
 
